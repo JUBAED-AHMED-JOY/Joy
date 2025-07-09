@@ -1,4 +1,4 @@
 {
   "api": "http://65.109.80.126:20392",
-  "imgbb_api_url": "https://joy-imgbb-api.onrender.com"
+  "imgbb_api_base": "https://joy-imgbb-api.onrender.com"
 }
