@@ -1,7 +1,7 @@
 {
   "api": "https://joy-simsimi-api-404-kktm.vercel.app",
   "emojimix": "https://joy-emojimix-api.vercel.app",
-  "rndm": "https://new-random.onrender.com",
-  "add": "https://new-random.onrender.com",
+  "rndm": "https://joy-random-api-tau.vercel.app",
+  "add": "https://joy-random-api-tau.vercel.app",
   "albums": "https://joy-album-api.onrender.com"
 }
