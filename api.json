@@ -3,5 +3,6 @@
   "emojimix": "https://joy-emojimix-api.vercel.app",
   "rndm": "https://joy-random-api-tau.vercel.app",
   "add": "https://joy-random-api-tau.vercel.app",
-  "albums": "https://joy-album-api.onrender.com"
+  "albums": "https://joy-album-api.onrender.com",
+  "welcome": "https://joy-wellcome-api--joyahmed01705.replit.app"
 }
